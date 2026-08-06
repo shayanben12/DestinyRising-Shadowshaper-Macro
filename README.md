@@ -5,10 +5,7 @@ LEIA ANTES DE BAIXAR: AVISO SOBRE BANS
 **Usem POR SUA PRÓPRIA CONTA E RISCO.**
 
 __**Resoluçoes do emulador suportadas**__
-
-**640x480**: Melhor resolução para rodar o bot em segundo plano enquanto joga/usa o computador para outra coisa
 **1920x1080**: Resolução padrão da maioria dos usuários
-**2560x1440**: Resolução para monitores 2K
 **Outras resoluções** por enquanto ainda **NÃO** são suportadas, mas caso queira alguma outra me avisa aqui que tento criar
 
 <img width="1941" height="1263" alt="image" src="https://github.com/user-attachments/assets/41497b75-fbc6-4c38-aede-677bbf3dfdb3" />
@@ -17,17 +14,13 @@ __**Resoluçoes do emulador suportadas**__
 
 Baixe e extraia a pasta inteira do .zip (não abra os arquivos por dentro do WinRAR/7zip, extraia tudo para uma pasta).
 
-Antes de utilizar, certifique que você está usando a torreta "Muqam" no slot 1
-
-<img width="1939" height="1076" alt="image" src="https://github.com/user-attachments/assets/881d4756-2d76-4687-ae74-475a2b49b7f1" />
-
-Abra o jogo no MuMu Player e vá até a tela inicial do Bulwark Ops (onde aparece o botão de "Launch").
+Abra o jogo no MuMu Player e vá até a tela inicial do Shadowshaper Duels (onde aparece o botão de "Start Matching").
 
 Essa tela aqui
 
-<img width="3557" height="1932" alt="image" src="https://github.com/user-attachments/assets/4ecc29c1-70bf-4f92-94c1-6b3121d3ac6f" />
+<img width="3552" height="1926" alt="image" src="https://github.com/user-attachments/assets/b753e46f-caea-4514-90ec-3709aca78909" />
 
-Dê dois cliques no **Macro Bulwark Ops.exe**.
+Dê dois cliques no **Macro ShadowShaper Duels.exe**.
 
 Uma janela preta do terminal vai abrir com os logs. Esse é o programa rodando, você pode verificar se está funcionando normal ou se algum erro aconteceu. 
 
@@ -35,7 +28,7 @@ PARA PARAR: Clique na janela preta do bot e aperte Ctrl + C ou apenas feche o te
 
 Após o Macro iniciar você NÃO precisa deixar o MumuPlayer na tela principal. O macro funciona mesmo com o emulador minimizado caso deseje fazer outra coisa no computador enquanto o macro roda
 
-:exclamation: :exclamation:O macro está configurado para rodar com o jogo em Inglês e em uma das 2 resoluções suportadas, se alguém precisar me avisa aqui que crio uma versão com o jogo em espanhol ou em alguma outra resolução
+:exclamation: :exclamation:O macro está configurado para rodar com o jogo em Inglês e em uma das resoluções suportadas, se alguém precisar me avisa aqui que crio uma versão com o jogo em espanhol ou em alguma outra resolução
 
 
 :star2: __**Guia de Utilização: Sistema Multi-Instância (Somente caso queira farmar em varias contas ao mesmo tempo)**__ :star2:
