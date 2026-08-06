@@ -1,0 +1,88 @@
+{
+  "flux_name": "MuMu ShadowShaper Duera",
+  "steps": [
+    {
+      "action": "find_and_click",
+      "image": "StartMatch_Button.png",
+      "retry_interval": 2, 
+      "skip": true,
+      "max_retries": 3
+    },
+    {
+      "action": "find_and_click",
+      "image": "YourTurn_Button.png",
+      "retry_interval": 2, 
+      "skip": true,
+      "max_retries": 30
+    },
+    {
+      "action": "find_and_click",
+      "image": "YourTurn_Button.png",
+      "retry_interval": 2, 
+      "skip": true,
+      "max_retries": 30,
+      "delay_before":8
+    },
+    {
+      "action": "find_and_click",
+      "image": "YourTurn_Button.png",
+      "retry_interval": 2, 
+      "skip": true,
+      "max_retries": 30,
+      "delay_before":8
+    },
+    {
+      "action": "find_and_click",
+      "image": "YourTurn_Button.png",
+      "retry_interval": 2, 
+      "skip": true,
+      "max_retries": 30,
+      "delay_before":8
+    },
+    {
+      "action": "find_and_click",
+      "image": "YourTurn_Button.png",
+      "retry_interval": 2, 
+      "skip": true,
+      "max_retries": 30,
+      "delay_before":8
+    },
+    {
+      "action": "find_and_click",
+      "image": "YourTurn_Button.png",
+      "retry_interval": 2, 
+      "skip": true,
+      "max_retries": 30,
+      "delay_before":8
+    },
+    {
+      "action": "find_and_click",
+      "image": "YourTurn_Button.png",
+      "retry_interval": 2, 
+      "skip": true,
+      "max_retries": 30
+    },
+    {
+      "action": "find_and_click",
+      "image": "TapToContinue_Button.png",
+      "retry_interval": 2, 
+      "skip": true,
+      "max_retries": 30
+    },
+    {
+      "action": "find_and_click",
+      "image": "PlayAgain_Button.png",
+      "retry_interval": 2,
+      "skip": true,
+      "max_retries": 30
+    },
+    {
+      "action": "find_and_click",
+      "image": "Continue_Button.png",
+      "retry_interval": 2, 
+      "skip": true,
+      "max_retries": 3,
+      "delay_before":8
+    }
+  ]
+}
